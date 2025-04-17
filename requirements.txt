@@ -1,0 +1,9 @@
+langchain-ollama
+langchain
+chromadb
+streamlit
+langchain-community
+langchain-chroma
+pymupdf
+langchain-experimental
+google-search-results
